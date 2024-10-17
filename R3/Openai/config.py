@@ -1,0 +1,1 @@
+apikey: str = "sk-proj-K0ogLbsF3jaRZKEoZKvkT3BlbkFJIwcML1TsMCh8oijmmnDE"
